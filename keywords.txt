@@ -1,0 +1,5 @@
+pengeluaran
+pemasukan
+catatan hari ini
+catatan bulan ini
+catatan tahun ini
